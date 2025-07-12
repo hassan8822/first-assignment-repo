@@ -129,7 +129,27 @@ nav{
     justify-content: space-around;
   
 }
-
+.users-title  {
+    font-family:"Raleway", sans-serif;
+    font-size: 42px;
+    font-weight: bold;
+    text-align: center;
+}
+.users-review{
+    display: flex;
+    color: #757575;
+}
+.users-container{
+    display: flex;
+    justify-content:space-around;
+    gap: 50px;
+    border-radius: 14px;
+    background-color:whitesmoke
+}
+.Users-feedback-section{
+    width: 1140px;
+ margin:151px 261px; 
+}
 
 
  
