@@ -165,6 +165,34 @@ margin: 0 auto;
 .Started{
     gap: 20px;
 }
+/* footer styles */
+footer{
+    padding:130px 230px ;
+    display: flex;
+    gap: 100px;
+}
+.footer-column{
+    width:528;
+}
+footer input{
+    height: 70px;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    display: block;
+}
+
+.raleway-awesome-font3{
+     font-family:"Raleway", sans-serif;
+    font-size: 97px;
+    font-weight: bold;
+}
+.footer-button{
+    gap: 10px;
+    padding: 12px 36px;
+}
+
+
+
 
  
 
