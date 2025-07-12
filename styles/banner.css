@@ -150,7 +150,21 @@ nav{
     width: 1140px;
  margin:151px 261px; 
 }
+.raleway-awesome-font2{
+     font-family:"Raleway", sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+}
+.banner-three{
+background-color: #FFFFFF;
+border-radius: 14px;
+max-width: 1140px;
+margin: 0 auto;
 
+}
+.Started{
+    gap: 20px;
+}
 
  
 
